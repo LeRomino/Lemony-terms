@@ -1,6 +1,6 @@
 # Lemony Terms of Service/Privacy Policy
 
-1. Use of Lemony
+Use of Lemony
 By inviting Lemony to your Discord server, you and your members grant Lemony permission to store the following information about you:
 Your Discord avatar-url
 
